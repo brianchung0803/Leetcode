@@ -7,8 +7,7 @@ class Solution(object):
         if n==0:
             return 0
         
-        num=[1]
-        
+        num=[1] 
         for j in range(1,n+1):
             left=j-1
             right=0
