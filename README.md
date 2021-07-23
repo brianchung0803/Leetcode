@@ -67,3 +67,16 @@ right和left左邊相同時則判斷哪一個高較高
 最後找最多空隙的值(最多條line有這個空隙),最後答案是line的數量-最多空隙的值,
 要注意的是因為最後一個空隙(line的長)一定是全部的line數,所以那一個空隙不能算,
 多加一個0：0的空隙以便若是全部的line都只有一個值的狀況
+
+# 2021/07/23
+## 4. Median of Two Sorted Arrays
+> https://leetcode.com/problems/median-of-two-sorted-arrays/
+
+## 11. Container With Most Water
+> https://leetcode.com/problems/container-with-most-water/
+
+## 15. 3Sum
+> https://leetcode.com/problems/3sum/
+
+
+
