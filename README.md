@@ -69,14 +69,26 @@ right和left左邊相同時則判斷哪一個高較高
 多加一個0：0的空隙以便若是全部的line都只有一個值的狀況
 
 # 2021/07/23
-## 4. Median of Two Sorted Arrays
+## 4. Median of Two Sorted Arrays (v)
 > https://leetcode.com/problems/median-of-two-sorted-arrays/
 
 ## 11. Container With Most Water
 > https://leetcode.com/problems/container-with-most-water/
 
-## 15. 3Sum
+## 15. 3Sum (v)
 > https://leetcode.com/problems/3sum/
+
+
+# 2021/07/25
+## 17. Letter Combinations of a Phone Number
+https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+
+## 19. Remove Nth Node From End of List
+https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
+## 121. Best Time to Buy and Sell Stock
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
 
 
 
