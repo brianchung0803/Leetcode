@@ -89,6 +89,14 @@ https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 ## 121. Best Time to Buy and Sell Stock
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
+# 2021/07/26
+## 1161. Maximum Level Sum of a Binary Tree
+https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
 
+## 973. K Closest Points to Origin
+https://leetcode.com/problems/k-closest-points-to-origin/
+
+## 904. Fruit Into Baskets (v)
+https://leetcode.com/problems/fruit-into-baskets/
 
 
