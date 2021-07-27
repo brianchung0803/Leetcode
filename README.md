@@ -103,4 +103,9 @@ right和left左邊相同時則判斷哪一個高較高
 ## 226. Invert Binary Tree
 > https://leetcode.com/problems/invert-binary-tree/
 
+## 482. License Key Formatting
+> https://leetcode.com/problems/license-key-formatting/
+
+
+
 
