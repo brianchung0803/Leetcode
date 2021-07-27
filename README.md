@@ -106,6 +106,9 @@ right和left左邊相同時則判斷哪一個高較高
 ## 482. License Key Formatting
 > https://leetcode.com/problems/license-key-formatting/
 
+## 1304. Find N Unique Integers Sum up to Zero
+> https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
+
 
 
 
