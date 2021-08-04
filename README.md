@@ -109,6 +109,9 @@ right和left左邊相同時則判斷哪一個高較高
 ## 1304. Find N Unique Integers Sum up to Zero
 > https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
 
+# 2021/08/04
 
+## 98. Validate Binary Search Tree
+> https://leetcode.com/problems/validate-binary-search-tree/
 
 
