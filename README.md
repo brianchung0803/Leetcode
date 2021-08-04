@@ -114,4 +114,7 @@ right和left左邊相同時則判斷哪一個高較高
 ## 98. Validate Binary Search Tree
 > https://leetcode.com/problems/validate-binary-search-tree/
 
+## 45. Jump Game II
+> https://leetcode.com/problems/jump-game-ii/
+
 
