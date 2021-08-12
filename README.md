@@ -117,4 +117,17 @@ right和left左邊相同時則判斷哪一個高較高
 ## 45. Jump Game II
 > https://leetcode.com/problems/jump-game-ii/
 
+# 2021/08/12
+
+## 48. Rotate Image
+> https://leetcode.com/problems/rotate-image/
+
+## 34. Find First and Last Position of Element in Sorted Array
+> https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+
+## 300. Longest Increasing Subsequence
+> https://leetcode.com/problems/longest-increasing-subsequence/
+
+## 334. Increasing Triplet Subsequence
+> https://leetcode.com/problems/increasing-triplet-subsequence/
 
