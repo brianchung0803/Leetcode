@@ -140,3 +140,6 @@ right和left左邊相同時則判斷哪一個高較高
 
 ## 108. Convert Sorted Array to Binary Search Tree
 > https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+
+## 88. Merge Sorted Array
+https://leetcode.com/problems/merge-sorted-array/
