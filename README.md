@@ -143,3 +143,6 @@ right和left左邊相同時則判斷哪一個高較高
 
 ## 88. Merge Sorted Array
 https://leetcode.com/problems/merge-sorted-array/
+
+## 617. Merge Two Binary Trees
+> https://leetcode.com/problems/merge-two-binary-trees/
