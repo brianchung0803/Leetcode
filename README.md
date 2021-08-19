@@ -132,5 +132,5 @@ right和left左邊相同時則判斷哪一個高較高
 > https://leetcode.com/problems/increasing-triplet-subsequence/
 
 # 2021/08/19
-## 207. Course Schedule
-> https://leetcode.com/problems/course-schedule/ (V)
+## 207. Course Schedule (V)
+> https://leetcode.com/problems/course-schedule/
