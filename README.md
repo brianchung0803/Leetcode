@@ -146,3 +146,16 @@ https://leetcode.com/problems/merge-sorted-array/
 
 ## 617. Merge Two Binary Trees
 > https://leetcode.com/problems/merge-two-binary-trees/
+
+# 2021/08/20
+## 283. Move Zeroes
+> https://leetcode.com/problems/move-zeroes/
+
+## 338. Counting Bits
+> https://leetcode.com/problems/counting-bits/
+
+## 234. Palindrome Linked List
+> https://leetcode.com/problems/palindrome-linked-list/
+
+## 169. Majority Element
+> https://leetcode.com/problems/majority-element/
