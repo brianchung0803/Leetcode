@@ -166,3 +166,19 @@ https://leetcode.com/problems/merge-sorted-array/
 
 ## 104. Maximum Depth of Binary Tree
 > https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+# 2021/09/12/
+## 120. Triangle
+> https://leetcode.com/problems/triangle/
+
+## 1470. Shuffle the Array
+> https://leetcode.com/problems/shuffle-the-array/
+
+## 561. Array Partition I
+> https://leetcode.com/problems/array-partition-i/
+
+## 873. Length of Longest Fibonacci Subsequence (*)
+> https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
+
+## 509. Fibonacci Number
+> https://leetcode.com/problems/fibonacci-number/
