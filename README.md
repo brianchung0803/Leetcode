@@ -182,3 +182,13 @@ https://leetcode.com/problems/merge-sorted-array/
 
 ## 509. Fibonacci Number
 > https://leetcode.com/problems/fibonacci-number/
+
+# 2021/10/05
+## 33. Search in Rotated Sorted Array (v)
+> https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+## 38. Count and Say
+> https://leetcode.com/problems/count-and-say/
+
+## 49. Group Anagrams
+> https://leetcode.com/problems/group-anagrams/
