@@ -209,3 +209,24 @@ https://leetcode.com/problems/merge-sorted-array/
 ## 26. Remove Duplicates from Sorted Array
 > https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
+# 2021/10/07
+56. Merge Intervals
+> https://leetcode.com/problems/merge-intervals/
+
+# 2021/10/08
+## 217. Contains Duplicate
+> https://leetcode.com/problems/contains-duplicate/
+
+## 125. Valid Palindrome
+> https://leetcode.com/problems/valid-palindrome/
+
+## 118. Pascal's Triangle
+> https://leetcode.com/problems/pascals-triangle/
+
+# 2021/10/09
+## 55. Jump Game
+> https://leetcode.com/problems/jump-game/
+## 54. Spiral Matrix
+> https://leetcode.com/problems/spiral-matrix/
+
+
