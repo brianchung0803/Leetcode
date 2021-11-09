@@ -229,4 +229,6 @@ https://leetcode.com/problems/merge-sorted-array/
 ## 54. Spiral Matrix
 > https://leetcode.com/problems/spiral-matrix/
 
-
+# 2021/11/09
+## 2059. Minimum Operations to Convert Number
+> https://leetcode.com/problems/minimum-operations-to-convert-number/
